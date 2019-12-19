@@ -1,6 +1,6 @@
 body {
     font-family: 'Literata', serif;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 26px;
 }
 
@@ -39,9 +39,10 @@ body {
 }
 
 .headline {
-    font-family: 'News Cycle', sans-serif;
+    font-family: 'Literata', serif;
     font-size: 36px;
     line-height: 40px;
+    letter-spacing: 2px;
     /*font-weight: 400;*/
 }
 
@@ -103,14 +104,14 @@ body {
 .article-copy {
     max-width: 720px;
     margin: 0px auto 0px auto;
-    font-family: 'News Cycle', sans-serif;
+    font-family: 'Literata', serif;
     font-size: 18px;
 }
 
 .copy {
     margin: 0 auto 20px auto;
     color: #222;
-    font-family: 'News Cycle', sans-serif;
+    font-family: 'Literata', serif;
     font-size: 18px;
 
 }
